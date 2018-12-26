@@ -1,0 +1,9 @@
+<resources>
+    <string name="hello">Hello World, MediaActivity!</string>
+    <string name="app_name">MediaPlayer</string>
+    <string name="search">搜索音乐</string>
+    <string name="clear_music_list">清除列表</string>
+    <string name="web">下载音乐</string>
+    <string name="exit">退出</string>
+
+</resources>
